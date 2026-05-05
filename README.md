@@ -1,12 +1,6 @@
-<!-- AUTOMATION VALIDATION: 2026-04-23 - automation of development confirmed for this repo -->
 # Safety Calculator Module
 
-**Last Updated:** February 6, 2026  
-**Version**: 1.0.0  
-**Drupal**: 11.x  
-**Package**: Forseti  
-**Type**: Custom Module  
-**Status**: 🟢 Active Development
+Standalone Drupal module repo for safety scoring, risk analysis, and H3-backed metric calculations.
 
 ---
 
